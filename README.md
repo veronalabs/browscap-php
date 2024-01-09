@@ -11,7 +11,7 @@ Installation
 Run the command below to install via Composer
 
 ```shell
-composer require browscap/browscap-php 
+composer require veronalabs/browscap-php
 ```
 
 Then you may identify the current user agent this way:
